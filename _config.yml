@@ -10,7 +10,7 @@ collections:
     permalink: /:path/
 
 # Title
-name: DMPED Economic Intelligence Dashboard
+name: DMPED Great Streets Dashboard
 subtitle: 'Deputy Mayor for Planning & Economic Development | Muriel Bowser, Mayor'
 
 # Author/Organization info to be displayed in the templates
@@ -22,7 +22,7 @@ author:
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
-baseurl: '/economic-intelligence'
+baseurl: '/great-streets'
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: '/assets/img/we-are-wdc.png'
@@ -31,40 +31,54 @@ logoalt: We Are Washington DC
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: 'Intro & Quick Stats'
+- text: 'Great Streets Map'
   internal: true
   url: ./
-- text: Population
+- text: '7th St NW/ Georgia Ave NW'
   internal: true
-  url: population.html
-- text: Employment and Labor
+  url: 7th-georgia.html
+- text: 'Connecticut Ave NW'
   internal: true
   url: employment-labor.html
-- text: 'Income, Wages, and Taxes'
+- text: 'Georgia Ave NW'
   internal: true
   url: income-wages-taxes.html
-- text: Housing Indicators
+- text: 'H St NE - Bladensburg Rd NE'
   internal: true
   url: housing-indicators.html
-- text: Construction Activity
+- text: 'Minnesota Ave NE - Benning Rd NE'
   internal: true
   url: construction-activity.html
-- text: Affordable Housing Production and Preservation
+- text: 'Martin Luther King Jr Ave'
   internal: true
   url: affordable-production-preservation.html
-- text: DMPED Real Estate Development
+- text: 'Nannie Helen Burroughs Ave'
   internal: true
   url: dmped-real-estate.html
-- text: Chart of the Week
+- text: 'New York Ave'
   internal: true
   url: chart-of-the-week.html
-
+- text: 'North Capitol St'
+  internal: true
+  url: chart-of-the-week.html  
+- text: 'Pennsylvania Ave'
+  internal: true
+  url: chart-of-the-week.html
+- text: 'Rhode Island Ave'
+  internal: true
+  url: chart-of-the-week.html
+- text: 'U St - 14th St'
+  internal: true
+  url: chart-of-the-week.html
+- text: 'Wisconsin Ave NW'
+  internal: true
+  url: chart-of-the-week.html
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: economic-intelligence
+- name: great-streets
   description:
-  url: https://github.com/DCgov/economic-intelligence
+  url: https://github.com/DCgov/great-streets
 
 google_analytics_ua: UA-2638726-1
 
