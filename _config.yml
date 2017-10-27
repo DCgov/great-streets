@@ -1,0 +1,86 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: DMPED Great Streets Dashboard
+subtitle: 'Deputy Mayor for Planning & Economic Development | Muriel Bowser, Mayor'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Office of the Deputy Mayor for Planning and Economic Development
+  url: http://dmped.dc.gov
+
+# When using this template with a project (repository) page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+baseurl: '/great-streets'
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: '/assets/img/we-are-wdc.png'
+logoalt: We Are Washington DC
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: 'Intro & Quick Stats'
+  internal: true
+  url: ./
+- text: '7th Streets/Georgia Avenue NW'
+  internal: true
+  url: 7th-georgia.html
+- text: '14th & U Streets NW'
+  internal: true
+  url: 14th-u.html
+- text: 'Connecticut Avenue NW'
+  internal: true
+  url: connecticut.html
+- text: 'Georgia Avenue NW'
+  internal: true
+  url: georgia.html
+- text: 'H Streets NE/Bladensburg Road NE'
+  internal: true
+  url: h-bladensburg.html
+- text: 'Martin Luther King Jr Ave/South Capitol SE/SW '
+  internal: true
+  url: mlk-south-capitol.html
+- text: 'Minnesota Ave/Benning Rd NE'
+  internal: true
+  url: minnesota-benning.html
+- text: 'Nannie Helen Burroughs NE'
+  internal: true
+  url: nannie-helen.html
+- text: 'New York Avenue NE'
+  internal: true
+  url: new-york.html  
+- text: 'North Capitol NW/NE'
+  internal: true
+  url: north-capitol.html
+- text: 'Pennsylvania Ave SE'
+  internal: true
+  url: pennsylvania.html
+- text: 'Rhode Island Ave NE'
+  internal: true
+  url: rhode-island.html
+- text: 'Wisconsin Ave NW'
+  internal: true
+  url: wisconsin.html
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: great-streets
+  description:
+  url: https://github.com/DCgov/great-streets
+
+google_analytics_ua: UA-2638726-1
+
+# Style Variables
+brand_color: "#BF0000"
