@@ -34,10 +34,10 @@ navigation:
 - text: 'Intro & Quick Stats'
   internal: true
   url: ./
-- text: '7th Streets/Georgia Avenue NW'
+- text: '7th Street/Georgia Avenue NW'
   internal: true
   url: 7th-georgia.html
-- text: '14th & U Streets NW'
+- text: '14th Street/U Street NW'
   internal: true
   url: 14th-u.html
 - text: 'Connecticut Avenue NW'
@@ -46,31 +46,31 @@ navigation:
 - text: 'Georgia Avenue NW'
   internal: true
   url: georgia.html
-- text: 'H Streets NE/Bladensburg Road NE'
+- text: 'H Street NE/Bladensburg Road NE'
   internal: true
   url: h-bladensburg.html
-- text: 'Martin Luther King Jr Ave/South Capitol SE/SW '
+- text: 'Martin Luther King Jr Avenue/South Capitol SE/SW'
   internal: true
   url: mlk-south-capitol.html
-- text: 'Minnesota Ave/Benning Rd NE'
+- text: 'Minnesota Avenue/Benning Road NE'
   internal: true
   url: minnesota-benning.html
-- text: 'Nannie Helen Burroughs NE'
+- text: 'Nannie Helen Burroughs Avenue NE'
   internal: true
   url: nannie-helen.html
 - text: 'New York Avenue NE'
   internal: true
   url: new-york.html  
-- text: 'North Capitol NW/NE'
+- text: 'North Capitol Street NW/NE'
   internal: true
   url: north-capitol.html
-- text: 'Pennsylvania Ave SE'
+- text: 'Pennsylvania Avenue SE'
   internal: true
   url: pennsylvania.html
-- text: 'Rhode Island Ave NE'
+- text: 'Rhode Island Avenue NE'
   internal: true
   url: rhode-island.html
-- text: 'Wisconsin Ave NW'
+- text: 'Wisconsin Avenue NW'
   internal: true
   url: wisconsin.html
 # Repo list
