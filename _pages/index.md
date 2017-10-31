@@ -11,6 +11,35 @@ Office of the Deputy Mayor for Planning & Economic Development (DMPED) <br/> Gre
 This page contains data covering the Great Streets Small Business Reimbursement Grant recipients from 2012 to present. For more information on the Great Streets program, please visit the <a href ="http://greatstreets.dc.gov/">Great Streets</a> website. 
 <b>Zoom in to see more detail.</b>
 
+
+<hr style="width: 454px; margin:1em 0">
+
+<h2> Quick Stats (Placeholder Data) </h2>
+
+<div class="datatable">
+	<table>
+		<thead>
+			<tr><th>Population</th><th>Households</th>
+		<tbody>
+			<tr class="headline-data"><td>681,170</td><td>281,787</td></tr>	
+			<tr><td>2016</td><td>2015</td></tr>
+		</tbody>
+	<table>
+		<thead>
+			<tr><th>Jobs</th><th>Unemployment</th>
+		<tbody>
+			<tr class="headline-data"><td>785,200</td><td>5.7%</td></tr>	
+			<tr><td>Feb 2017</td><td>Feb 2017</td></tr>
+		</tbody>
+	<table>
+		<thead>
+			<tr><th>DC GDP</th><th>Personal Income</th>
+		<tbody>
+			<tr class="headline-data"><td>$128B</td><td>$52B</td></tr>	
+			<tr><td>2016 Q3</td><td>2016 Q4</td></tr>
+		</tbody>
+
+
 <!-- <iframe width="100%" height="600px" src="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=e6ef70333b4547b49255d92ce21ca5b4" frameborder="0" scrolling="no"></iframe> This Version (from web map to map app) takes Way too long to load-->
 
 <style>.embed-container {position: relative; padding-bottom: 87%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="300" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Great Streets Corridors for Dashboard" src="//dcgis.maps.arcgis.com/apps/Embed/index.html?webmap=ea5b95d58986464984fe772931fe63e2&amp;extent=-77.2064,38.8134,-76.8274,38.9895&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;search=true&amp;searchextent=true&amp;legend=true&amp;disable_scroll=true&amp;theme=light"></iframe></div>
