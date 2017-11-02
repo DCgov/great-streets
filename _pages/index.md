@@ -8,7 +8,7 @@ title: Intro & Quick Stats
 Office of the Deputy Mayor for Planning & Economic Development (DMPED) <br/> Great Streets 
 </h3>
 
-This page contains data covering the Great Streets Small Business Reimbursement Grant recipients from 2012 to present. For more information on the Great Streets program, please visit the <a href ="http://greatstreets.dc.gov/">Great Streets</a> website. 
+Great Streets is the District’s commercial revitalization initiative to transform emerging corridors into livable, walkable, and shoppable neighborhood retail experiences.  The goal is to support new and existing businesses, increase the District's tax base, and create job opportunities for District residents. For more information on the Great Streets program, please visit the <a href ="http://greatstreets.dc.gov/">Great Streets</a> website. 
 
 <hr style="width: 454px; margin:1em 0">
 
