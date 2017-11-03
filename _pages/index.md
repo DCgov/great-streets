@@ -36,8 +36,9 @@ Great Streets is the District’s commercial revitalization initiative to transf
 			<tr class="headline-data"><td>$128B</td><td>$52B</td></tr>	
 			<tr><td>2016 Q3</td><td>2016 Q4</td></tr>
 		</tbody></tr></thead></table></tr></thead></table></tr></thead></table></div>
+<br>
 
-<h2> Great Streets Corridors and Grantees Map</h2>
+<h2> Great Streets Corridors and Grantees</h2>
 
 
  <iframe src="http://dcgis.maps.arcgis.com/apps/View/index.html?appid=51533acf6855478da2ceb0736444014d" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px"></iframe>
