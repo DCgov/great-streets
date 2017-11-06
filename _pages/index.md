@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /
-title: Intro & Quick Stats
+title: Introduction
 ---
 
 <h3>
-Office of the Deputy Mayor for Planning & Economic Development (DMPED) <br/> Great Streets 
+Great Streets Impact Dashboard
 </h3>
 
 Great Streets is the District’s commercial revitalization initiative to transform emerging corridors into livable, walkable, and shoppable neighborhood retail experiences.  The goal is to support new and existing businesses, increase the District's tax base, and create job opportunities for District residents. For more information on the Great Streets program, please visit the <a href ="http://greatstreets.dc.gov/">Great Streets</a> website. 
