@@ -12,17 +12,20 @@ Great Streets is the District’s commercial revitalization initiative to transf
 
 <hr style="width: 454px; margin:1em 0">
 
-<h2> Quick Stats (Placeholder Data) </h2>
+<h2> Quick Stats</h2>
 
 <div class="datatable">
 	<table>
 		<thead>
-			<tr><th>Population</th><th>Households</th>
+			<tr><th>Total Great Streets Investment</th><th>Grantees</th><th>Estimated Jobs Created and Retained</th></tr>
+		</thead>
 		<tbody>
-			<tr class="headline-data"><td>681,170</td><td>281,787</td></tr>	
-			<tr><td>2016</td><td>2015</td></tr>
+			<tr class="headline-data"><td>$34.4M</td><td>360</td><td>3,680</td></tr>	
+			<tr><td></td><td>Since 2012</td><td></td></tr>
 		</tbody>
-	<table>
+	</table>
+</div>
+<!-- 	<table>
 		<thead>
 			<tr><th>Jobs</th><th>Unemployment</th>
 		<tbody>
@@ -34,9 +37,9 @@ Great Streets is the District’s commercial revitalization initiative to transf
 			<tr><th>DC GDP</th><th>Personal Income</th>
 		<tbody>
 			<tr class="headline-data"><td>$128B</td><td>$52B</td></tr>	
-			<tr><td>2016 Q3</td><td>2016 Q4</td></tr>
-		</tbody></tr></thead></table></tr></thead></table></tr></thead></table></div>
-<br>
+			<tr><td>2016 Q3</td><td>2016 Q4</td></tr> -->
+<!-- 		</tbody></tr></thead></table></tr></thead></table></tr></thead></table></div>
+<br> -->
 
 <h2> Great Streets Corridors and Grantees Map</h2>
 
