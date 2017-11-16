@@ -20,8 +20,8 @@ Great Streets is the District’s commercial revitalization initiative to transf
 			<tr><th>Total Great Streets Investment</th><th>Grantees</th><th>Estimated Jobs Created and Retained</th></tr>
 		</thead>
 		<tbody>
-			<tr class="headline-data"><td>$34.4M</td><td>360</td><td>3,680</td></tr>	
-			<tr><td></td><td>Since 2012</td><td></td></tr>
+			<tr class="headline-data"><td>$11.3M</td><td>208</td><td>3,941</td></tr>	
+			<tr><td></td><td>Since 2015</td><td></td></tr>
 		</tbody>
 	</table>
 </div>
