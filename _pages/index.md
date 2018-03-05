@@ -25,7 +25,7 @@ Great Streets is the District’s commercial revitalization initiative to transf
 		</tbody>
 	</table>
 </div>
- <iframe src="https://public.tableau.com/profile/marie5322#!/vizhome/shared/BC5FHD4Z5" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px"></iframe>
+ <iframe src="https://public.tableau.com/profile/marie5322#!/vizhome/shared/BC5FHD4Z5"></iframe>
 
 <h2>Corridors and Grantees Map</h2>
 
