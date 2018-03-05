@@ -25,9 +25,9 @@ Great Streets is the District’s commercial revitalization initiative to transf
 		</tbody>
 	</table>
 </div>
-<iframe align = "center" width = "600" height = "1000" src="https://public.tableau.com/shared/BC5FHD4Z5?:display_count=yes"/>
+<iframe align = "center" width = "600" height = "800" src="https://public.tableau.com/profile/marie5322#!/vizhome/shared/BC5FHD4Z5"></iframe>
+
 <h2>Corridors and Grantees Map</h2>
 
  <iframe src="http://dcgis.maps.arcgis.com/apps/View/index.html?appid=51533acf6855478da2ceb0736444014d" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px"></iframe>
 
-<!-- <style>.embed-container {position: relative; padding-bottom: 87%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="300" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Great Streets Corridors for Dashboard" src="//dcgis.maps.arcgis.com/apps/Embed/index.html?webmap=ea5b95d58986464984fe772931fe63e2&amp;extent=-77.2064,38.8134,-76.8274,38.9895&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;search=true&amp;searchextent=true&amp;legend=true&amp;disable_scroll=true&amp;theme=light"></iframe></div> -->
