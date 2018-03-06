@@ -24,12 +24,35 @@ Great Streets is the District’s commercial revitalization initiative to transf
 			<tr><td></td><td>Since 2015</td><td></td></tr>
 		</tbody>
 	</table>
-</div>
-<div class='tableauPlaceholder' id='viz1520352658104' style='position: relative'><noscript><a href='#'><img alt='Great Streets Grantees ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;Great_Streets_Impact&#47;GreatStreetsGrantees&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Great_Streets_Impact&#47;GreatStreetsGrantees' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;Great_Streets_Impact&#47;GreatStreetsGrantees&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1520352658104');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='450px';vizElement.style.height='847px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
- <iframe src="https://public.tableau.com/views/Great_Streets_Impact/GreatStreetsGrantees?:embed=y&:display_count=yes&publish=yes" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px"></iframe>
-
-
+	
+<div class='tableauPlaceholder' id='viz1520281608317' style='position: relative'>
+	<noscript>
+		<a href='#'>
+			<img alt='Great Streets Grantees ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BC&#47;BC5FHD4Z5&#47;1_rss.png' style='border: none' />
+		</a>
+	</noscript>
+	<object class='tableauViz'  style='display:none;'>
+		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+		<param name='embed_code_version' value='3' /> 
+		<param name='path' value='shared&#47;BC5FHD4Z5' /> 
+		<param name='toolbar' value='yes' />
+		<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BC&#47;BC5FHD4Z5&#47;1.png' />
+		<param name='animate_transition' value='yes' />
+		<param name='display_static_image' value='yes' />
+		<param name='display_spinner' value='yes' />
+		<param name='display_overlay' value='yes' />
+		<param name='display_count' value='yes' />
+		<param name='filter' value='publish=yes' />
+	</object>
+</div>                
+<script type='text/javascript'>                    
+	var divElement = document.getElementById('viz1520281608317');                    
+	var vizElement = divElement.getElementsByTagName('object')[0];                    
+	vizElement.style.width='450px';vizElement.style.height='847px';                    
+	var scriptElement = document.createElement('script');                    
+	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+	vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 <h2>Corridors and Grantees Map</h2>
 
  <iframe src="http://dcgis.maps.arcgis.com/apps/View/index.html?appid=51533acf6855478da2ceb0736444014d" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px"></iframe>
