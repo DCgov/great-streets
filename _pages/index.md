@@ -24,7 +24,7 @@ Great Streets is the District’s commercial revitalization initiative to transf
 			<tr><td></td><td>Since 2015</td><td></td></tr>
 		</tbody>
 	</table>
-	
+<br>	
 <div class='tableauPlaceholder' id='viz1520281608317' style='position: relative'>
 	<noscript>
 		<a href='#'>
