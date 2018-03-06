@@ -25,6 +25,7 @@ Great Streets is the District’s commercial revitalization initiative to transf
 		</tbody>
 	</table>
 <br>	
+<h2>Click on Charts to Filter by Fiscal Year and Industry</h2>
 <div class='tableauPlaceholder' id='viz1520281608317' style='position: relative'>
 	<noscript>
 		<a href='#'>
@@ -53,6 +54,7 @@ Great Streets is the District’s commercial revitalization initiative to transf
 	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 	vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+<br>
 <h2>Corridors and Grantees Map</h2>
 
  <iframe src="http://dcgis.maps.arcgis.com/apps/View/index.html?appid=51533acf6855478da2ceb0736444014d" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px"></iframe>
