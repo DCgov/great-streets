@@ -25,7 +25,9 @@ Great Streets is the District’s commercial revitalization initiative to transf
 		</tbody>
 	</table>
 <br>	
-<br>
+<div class='tableauPlaceholder' id='viz1533931360719' style='position: relative'><noscript><a href='#'><img alt='Totals ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GS&#47;GSID_totals&#47;Totals&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GSID_totals&#47;Totals' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GS&#47;GSID_totals&#47;Totals&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1533931360719');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='600px';vizElement.style.height='1227px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<!-- <br>
 <h3>Click on Charts to Filter by Fiscal Year and Industry</h3>
 <div class='tableauPlaceholder' id='viz1520281608317' style='position: relative'>
 	<noscript>
@@ -60,3 +62,4 @@ Great Streets is the District’s commercial revitalization initiative to transf
 
  <iframe src="http://dcgis.maps.arcgis.com/apps/View/index.html?appid=51533acf6855478da2ceb0736444014d" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px"></iframe>
 
+ -->
